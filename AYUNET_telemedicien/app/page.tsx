@@ -12,7 +12,8 @@ export default function HomePage() {
 
   const languages = {
     en: {
-      title: "AyuNet",
+      title: "AarogyaX
+",
       subtitle: "Connecting Rural Healthcare",
       description: "Access quality healthcare from anywhere in rural communities",
       tagline: "Bridging the gap between rural communities and quality healthcare",

@@ -4,7 +4,8 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color tokens to match AyuNet design brief with cyan primary and emerald accent */
+  /* Updated color tokens to match AarogyaX
+ design brief with cyan primary and emerald accent */
   --background: #ffffff;
   --foreground: #4b5563;
   --card: #f9fafb;
@@ -41,7 +42,8 @@
 }
 
 .dark {
-  /* Updated dark mode colors to maintain AyuNet theme consistency */
+  /* Updated dark mode colors to maintain AarogyaX
+ theme consistency */
   --background: #0f172a;
   --foreground: #f1f5f9;
   --card: #1e293b;

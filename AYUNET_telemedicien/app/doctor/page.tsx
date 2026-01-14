@@ -45,7 +45,8 @@ export default function DoctorPortal() {
   const languages = {
     en: {
       title: "Doctor Portal",
-      welcome: doctorData ? `Welcome, Dr. ${doctorData.name}` : "Welcome to AyuNet",
+      welcome: doctorData ? `Welcome, Dr. ${doctorData.name}` : "Welcome to AarogyaX
+",
       dashboard: "Dashboard",
       patients: "Patients",
       schedule: "Schedule",
@@ -84,7 +85,8 @@ export default function DoctorPortal() {
     },
     hi: {
       title: "डॉक्टर पोर्टल",
-      welcome: doctorData ? `स्वागत है, डॉ. ${doctorData.name}` : "AyuNet में आपका स्वागत है",
+      welcome: doctorData ? `स्वागत है, डॉ. ${doctorData.name}` : "AarogyaX
+ में आपका स्वागत है",
       dashboard: "डैशबोर्ड",
       patients: "मरीज़",
       schedule: "कार्यक्रम",
@@ -123,7 +125,8 @@ export default function DoctorPortal() {
     },
     pa: {
       title: "ਡਾਕਟਰ ਪੋਰਟਲ",
-      welcome: doctorData ? `ਜੀ ਆਇਆਂ ਨੂੰ, ਡਾ. ${doctorData.name}` : "AyuNet ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
+      welcome: doctorData ? `ਜੀ ਆਇਆਂ ਨੂੰ, ਡਾ. ${doctorData.name}` : "AarogyaX
+ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
       dashboard: "ਡੈਸ਼ਬੋਰਡ",
       patients: "ਮਰੀਜ਼",
       schedule: "ਸਮਾਂ-ਸਾਰਣੀ",

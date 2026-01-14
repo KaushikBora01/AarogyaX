@@ -4,8 +4,10 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'AYUNET',
-  description: 'AYUNET IS A PLATFORM DESIGNED TO CONNECT DOCTOR,PATIENT AND PHARMACIST',
+  title: 'AarogyaX
+',
+  description: 'AarogyaX
+ IS A PLATFORM DESIGNED TO CONNECT DOCTOR,PATIENT AND PHARMACIST',
 }
 
 export default function RootLayout({

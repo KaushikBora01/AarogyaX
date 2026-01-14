@@ -44,7 +44,8 @@ export default function PharmacistPortal() {
   const languages = {
     en: {
       title: "Pharmacist Portal",
-      welcome: pharmacistData ? `Welcome, ${pharmacistData.pharmacyName || pharmacistData.name}` : "Welcome to AyuNet",
+      welcome: pharmacistData ? `Welcome, ${pharmacistData.pharmacyName || pharmacistData.name}` : "Welcome to AarogyaX
+",
       dashboard: "Dashboard",
       inventory: "Inventory",
       orders: "Orders",
@@ -92,7 +93,8 @@ export default function PharmacistPortal() {
       title: "फार्मासिस्ट पोर्टल",
       welcome: pharmacistData
         ? `स्वागत है, ${pharmacistData.pharmacyName || pharmacistData.name}`
-        : "AyuNet में आपका स्वागत है",
+        : "AarogyaX
+ में आपका स्वागत है",
       dashboard: "डैशबोर्ड",
       inventory: "इन्वेंटरी",
       orders: "ऑर्डर",
@@ -140,7 +142,8 @@ export default function PharmacistPortal() {
       title: "ਫਾਰਮਾਸਿਸਟ ਪੋਰਟਲ",
       welcome: pharmacistData
         ? `ਜੀ ਆਇਆਂ ਨੂੰ, ${pharmacistData.pharmacyName || pharmacistData.name}`
-        : "AyuNet ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
+        : "AarogyaX
+ ਵਿੱਚ ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
       dashboard: "ਡੈਸ਼ਬੋਰਡ",
       inventory: "ਇਨਵੈਂਟਰੀ",
       orders: "ਆਰਡਰ",

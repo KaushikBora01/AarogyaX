@@ -259,7 +259,8 @@ export default function PatientLoginRegister() {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="patient@ayunet.com"
+                  placeholder="patient@AarogyaX
+.com"
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   className="bg-white border-border focus:border-secondary"

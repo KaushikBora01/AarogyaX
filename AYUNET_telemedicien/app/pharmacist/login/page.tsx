@@ -218,7 +218,8 @@ export default function PharmacistAuth() {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="pharmacist@ayunet.com"
+                  placeholder="pharmacist@AarogyaX
+.com"
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                   className="bg-white border-border focus:border-accent"

@@ -42,7 +42,8 @@ export default function PatientPortal() {
   const languages = {
     en: {
       title: "Patient Portal",
-      welcome: patientData ? `Welcome back, ${patientData.name}` : "Welcome to AyuNet",
+      welcome: patientData ? `Welcome back, ${patientData.name}` : "Welcome to AarogyaX
+",
       dashboard: "Dashboard",
       symptoms: "Symptom Checker",
       appointments: "Appointments",
@@ -71,7 +72,8 @@ export default function PatientPortal() {
     },
     hi: {
       title: "मरीज़ पोर्टल",
-      welcome: patientData ? `वापस स्वागत है, ${patientData.name}` : "AyuNet में आपका स्वागत है",
+      welcome: patientData ? `वापस स्वागत है, ${patientData.name}` : "AarogyaX
+ में आपका स्वागत है",
       dashboard: "डैशबोर्ड",
       symptoms: "लक्षण जांचकर्ता",
       appointments: "अपॉइंटमेंट",
@@ -100,7 +102,8 @@ export default function PatientPortal() {
     },
     pa: {
       title: "ਮਰੀਜ਼ ਪੋਰਟਲ",
-      welcome: patientData ? `ਵਾਪਸ ਜੀ ਆਇਆਂ ਨੂੰ, ${patientData.name}` : "AyuNet ਵਿੱਚ ਆਉਣ ਵਾਲੀ ਸੂਚਨਾ",
+      welcome: patientData ? `ਵਾਪਸ ਜੀ ਆਇਆਂ ਨੂੰ, ${patientData.name}` : "AarogyaX
+ ਵਿੱਚ ਆਉਣ ਵਾਲੀ ਸੂਚਨਾ",
       dashboard: "ਡੈਸ਼ਬੋਰਡ",
       symptoms: "ਲੱਛਣ ਜਾਂਚਕਰਤਾ",
       appointments: "ਮੁਲਾਕਾਤਾਂ",
